@@ -1,5 +1,5 @@
 # spacegame
-Copy of my 2021 space game project.
+Copy of my 2022 space game project, written in Scala.
 
 Controls:
 - Press ENTER to start or replay
