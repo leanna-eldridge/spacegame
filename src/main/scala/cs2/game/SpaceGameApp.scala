@@ -14,8 +14,8 @@ import scala.collection.mutable.Buffer
 import scala.collection.mutable
 import scalafx.scene.text.Font
 import scalafx.scene.text.TextAlignment
-import _root_.cs2.util.Vec2
-import _root_.cs2.game.cs2.game.Boss
+import cs2.util.Vec2
+import cs2.game.Boss
 
 /** main object that initiates the execution of the game, including construction
  *  of the window.
